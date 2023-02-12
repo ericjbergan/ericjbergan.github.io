@@ -29,7 +29,7 @@ class App extends Component {
             :
             <div>
               <div>
-                <img src="./profile-pic.jpg" alt="profile" className="profile-image"></img>
+                <img src="./profile-pic.jpg" alt="profile pic" className="profile-image"></img>
               </div>
               <div>
                 <p className="bio">After some time in the medical and donation industries, I decided to take on a
