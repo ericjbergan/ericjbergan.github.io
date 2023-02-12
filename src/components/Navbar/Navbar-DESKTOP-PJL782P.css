@@ -1,0 +1,36 @@
+.nav-container {
+    list-style-type: none;
+    display: flex;
+    margin-top: 20px;
+    height: 80px;
+}
+
+.logo,
+.badge {
+    height: 100%;
+}
+
+.nav-name,
+.nav-title {
+    color: #262b7d;
+    text-align: left;
+    margin-right: auto;
+    margin-left: 20px;
+}
+
+.nav-name {
+    font-weight: bold;
+}
+
+.about {
+    margin-left: auto;
+}
+
+.about:hover {
+    cursor: pointer
+}
+
+.nav-item {
+    color: #527bff;
+    padding-top: 18px;
+}

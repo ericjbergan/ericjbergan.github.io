@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+#body {
+  margin: 70px 0 100px 0;
+  height: 200px;
+}
+
+h1 {
+  color: #262b7d;
+  font-weight: bold;
+}
+
+.profile-image {
+  float: left;
+  margin: 0 20px;
+  width: 20%;
+  border-radius: 100px;
+}
+
+.bio {
+  text-align: left;
+  margin-left: 30px;
+  font-size: 18px;
+  width: 100%;
+}
+
+.project {
+  display: flex;
+  flex-wrap: wrap;
+}
