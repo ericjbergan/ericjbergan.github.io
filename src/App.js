@@ -36,7 +36,10 @@ class App extends Component {
                     new challenge. Coding is something that has always been an interest for me so web development
                     was a logical next step.</p>
 
-                <p className="bio">I recently completed the University of MN Coding Bootcamp where learned HTML,
+                <p className="bio">I recently completed a year long bootcamp taht is a collaboration between Amazon
+                    Technical Academy (ATA) and Kenzie Academy (part of Southern NH Univ). This focused on Java and
+                    Amazon Web Services (AWS). During that time, I was hired by Kenzie to be a Java coach for that
+                    same program. Also, in 2019 I completed the University of MN Coding Bootcamp where learned HTML,
                     Javascript, CSS, React.js, MongoDB, MySQL, and many other programming languages and applications.</p>
 
                 <p className="bio">I am friendly, open, intelligent and I love a good challenge. I’m excited about
