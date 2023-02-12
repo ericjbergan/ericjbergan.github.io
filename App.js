@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './App.css';
-import Navbar from './components/Navbar/Navbar';
-import Project from './components/Project/Project';
+import './src/App.css';
+import Navbar from './src/components/Navbar/Navbar';
+import Project from './src/components/Project/Project';
 
 class App extends Component {
   state = {
@@ -11,7 +11,7 @@ class App extends Component {
   switchAboutMe = () => {
     //update state
     this.setState({
-      isAboutMe: false
+      isAboutMe: !this.state.isAboutMe
     });
   };
 
