@@ -6,7 +6,7 @@ const projects = [
         name: "Clicky Game",
         imageURL: "./ClickyGame.JPG",
         description: "Simple React app that tests your memory and observation skills. This was my first React app other than this profile.",
-        runApp: "https://clicky-game-ejb.herokuapp.com",
+        runApp: "https://ericjbergan.github.io/clickygame.github.io/",
         seeCode: "https://github.com/ericjbergan/clickygame.github.io"
     },
     {
