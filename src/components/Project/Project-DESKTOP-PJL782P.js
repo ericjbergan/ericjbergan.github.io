@@ -18,7 +18,7 @@ const projects = [
     },
     {
         name: "Burger",
-        imageURL: "./eatdaburger.jpg",
+        imageURL: "./oregon-trail.jpg",
         description: "A small, no-frills full stack app for adding data to a MySQL db and retrieving and deleting it. It would be a good to-do list with a few changes.",
         runApp: "https://eat-da-burger-ejb.herokuapp.com",
         seeCode: "https://github.com/ericjbergan/burger.github.io"
