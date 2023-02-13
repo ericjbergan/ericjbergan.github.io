@@ -1,4 +1,5 @@
-This is my official and current portfolio for web development. It is also the first app I wrote using React. It seemed appropriate. It is not complex, but it does what I need it to do.
+This is my official and current portfolio for web development. It is also the first app I wrote using React. It 
+seemed appropriate. It is not complex, but it does what I need it to do.
 
 React (obviously) and CSS were the techs used.
 
