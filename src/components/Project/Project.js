@@ -1,5 +1,6 @@
 import React from 'react';
 import './Project.css';
+// import oregontrail from '../../public/oregontrail.jpeg';
 
 const projects = [
     {
@@ -19,8 +20,8 @@ const projects = [
     },
     {
         name: "Oregon Trail",
-        imageURL: "./oregon-trail.jpg",
-        description: "A conversion of an old Basic language version of Oregon Trail to modern Java. Must be cloned" +
+        imageURL: "./oregontrail.jpeg",
+        description: "A conversion of an old CLI Basic language version of Oregon Trail to modern Java. Must be cloned " +
             "in order to run it.",
         runApp: "https://github.com/ericjbergan/oregon-trail-java",
         seeCode: "https://github.com/ericjbergan/oregon-trail-java"
@@ -34,7 +35,7 @@ const Projects = () => {
         return (
             <div className="project-card">
                 <div className="img-div">
-                    <img src={card.imageURL} alt="no image" className="projectImg"></img>
+                    <img src={card.imageURL} alt="" className="projectImg"></img>
                     <div className="link-wrapper">
                         <a href={card.runApp} target="_blank" rel="noopener noreferrer">
                             <button type="button">Run App</button></a>

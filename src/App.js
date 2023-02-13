@@ -24,7 +24,7 @@ class App extends Component {
           {this.state.isAboutMe ?
             <div>
               <h1>Hi, I'm Eric; Full Stack Developer</h1>
-              <h1>from Minneapolis/St. Paul, MN</h1>
+              <h1>located in the Seattle, WA area</h1>
             </div>
             :
             <div>
