@@ -34,7 +34,7 @@ const Projects = () => {
         return (
             <div className="project-card">
                 <div className="img-div">
-                    <img src={card.imageURL} alt="" className="projectImg"></img>
+                    <img src={card.imageURL} alt="no image" className="projectImg"></img>
                     <div className="link-wrapper">
                         <a href={card.runApp} target="_blank" rel="noopener noreferrer">
                             <button type="button">Run App</button></a>
