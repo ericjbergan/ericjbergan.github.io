@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.7c7e1ac3.chunk.css",
-    "main.js": "/static/js/main.269a1252.chunk.js",
-    "main.js.map": "/static/js/main.269a1252.chunk.js.map",
+    "main.js": "/static/js/main.7b0b3a4b.chunk.js",
+    "main.js.map": "/static/js/main.7b0b3a4b.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.42f5c28b.js",
     "runtime~main.js.map": "/static/js/runtime~main.42f5c28b.js.map",
-    "static/js/2.bf331c17.chunk.js": "/static/js/2.bf331c17.chunk.js",
-    "static/js/2.bf331c17.chunk.js.map": "/static/js/2.bf331c17.chunk.js.map",
+    "static/js/2.cd02b788.chunk.js": "/static/js/2.cd02b788.chunk.js",
+    "static/js/2.cd02b788.chunk.js.map": "/static/js/2.cd02b788.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d7cc6e1577db9da32aa782960fe9c53a.js": "/precache-manifest.d7cc6e1577db9da32aa782960fe9c53a.js",
+    "precache-manifest.649caa18c0708798682f5acf785c6c5e.js": "/precache-manifest.649caa18c0708798682f5acf785c6c5e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7c7e1ac3.chunk.css.map": "/static/css/main.7c7e1ac3.chunk.css.map",
     "static/media/oregontrail.jpeg": "/static/media/oregontrail.5d2eb5f8.jpeg"
